@@ -5,6 +5,9 @@ console.log("Practice Github");
 
 console.log("Practice Github");
 
+<<<<<<< HEAD
+console.log("practice for rebase master or merge master.");
+=======
 console.log("practice for rebase master or merge master.");
 
 console.log("1");
@@ -20,3 +23,4 @@ console.log("Divya made changes");
 console.log("15 august");
 
 console.log("Work after Nilesh push by Divya");
+>>>>>>> master
